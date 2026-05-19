@@ -1,2 +1,2 @@
 # codealpha_tasks
-An internship tasks durimg an intership at  codealpha 
+An internship tasks during an intership at  codealpha 
